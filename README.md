@@ -17,4 +17,4 @@ Question 3 :[Watch this tutorial](https://www.youtube.com/watch?v=mrGqVM7Ww44), 
 Give hashtags: #assignment13, #QGISMapping, #geospatialProgramming in your post. Submit the link of your facebook post. 
 
 
-[Screenshot-3]()
+[Screenshot-3](https://github.com/Anamikachow56/Assignment-13-Introduction-to-Group-Reducer-in-GEE/blob/7309014e9d64752c86d275ecec4c164d80fb5cb2/Map%20of%20Banshkhali.png)
